@@ -1,0 +1,29 @@
+h1 {
+
+    color: red;
+    background-color: white;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+ul {
+
+    color: blue;
+    background-color: red;
+    font-size: 40px;
+    text-align: left;
+}
+
+body {
+
+text-align: center;
+
+}
+
+p {
+font-weight: bold;
+    text-shadow: 0in;
+
+}
